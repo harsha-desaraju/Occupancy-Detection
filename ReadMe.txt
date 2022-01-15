@@ -1,6 +1,6 @@
-Member 1 : Desaraju Harsha Vardhan        - 18084
-Member 2 : Mallidi Poorna Siva Rama Reddy - 18133
-Member 3 : Srinivasula Koushik            - 18277
+Member 1 : Desaraju Harsha Vardhan        
+Member 2 : Mallidi Poorna Siva Rama Reddy 
+Member 3 : Srinivasula Koushik            
 
 This directory contains 
 1) ModelTraining.ipynb
@@ -40,11 +40,3 @@ The directory structure of the shared folder:
 
 
 The link for the shared folder: https://drive.google.com/folderview?id=1sCcWYK7uCtmr17r2Vimjxq58b2-AnoFe
-
-
-Contributions:
-For every line of both the codes ModelTraining.ipynb and ModelTesting.ipynb,  all three of us have discussed and have done pair programming.
-We promise you that all of us have equal understanding and contribution in the project proceedings.
-
-Disclaimer:
-The website development and database management has been done on local servers and cannot be shared. We can give you a live demonstration if required.  
